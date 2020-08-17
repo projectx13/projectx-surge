@@ -5,7 +5,7 @@ description = "contributors and packages used by projectx"
 
 
 ## github contributors
-{{<ghcontributors "https://api.github.com/repos/elgatito/plugin.video.projectx/contributors?per_page=100" >}}
+{{<ghcontributors "https://api.github.com/repos/projectx/plugin.video.projectx/contributors?per_page=100" >}}
 
 ### Other contributors
 <div class="ghContributors">

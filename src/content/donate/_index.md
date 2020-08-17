@@ -25,7 +25,7 @@ projectx is free to use, without any payments and fees, but you can donate, to s
 
 ### Flattr
 <span style="text-align: left">
-    <a style="display: inline-block; max-height: 25px; max-width: 100px;" href="https://flattr.com/submit/auto?user_id=elgatito&url=http%3A%2F%2Fprojectx.surge.sh" target="_blank" title="Flattr projectx"><img src="http://api.flattr.com/button/flattr-badge-large.png" /></a>  <br>
+    <a style="display: inline-block; max-height: 25px; max-width: 100px;" href="https://flattr.com/submit/auto?user_id=projectx&url=http%3A%2F%2Fprojectx.surge.sh" target="_blank" title="Flattr projectx"><img src="http://api.flattr.com/button/flattr-badge-large.png" /></a>  <br>
 </span>  
 
 ### Bitcoin

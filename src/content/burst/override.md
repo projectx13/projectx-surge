@@ -58,7 +58,7 @@ Should look like this:
 }
 ```
 
-You can open actual definitions, located here: https://raw.githubusercontent.com/elgatito/script.projectx.burst/master/burst/providers/providers.json
+You can open actual definitions, located here: https://raw.githubusercontent.com/projectx/script.projectx.burst/master/burst/providers/providers.json
 
 Find the one you need, copy into _overrides.json_ file, and make you modifications. 
 

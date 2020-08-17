@@ -67,5 +67,5 @@ ___
 
 ## Source :
 
-* [{{%icon "sunglasses" %}} click here to view raw content](https://raw.githubusercontent.com/elgatito/projectx-surge/master/src/content/shortcodes/revealjs.md)
+* [{{%icon "sunglasses" %}} click here to view raw content](https://raw.githubusercontent.com/projectx/projectx-surge/master/src/content/shortcodes/revealjs.md)
 editURL

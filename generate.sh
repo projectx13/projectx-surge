@@ -5,7 +5,7 @@ GIT_VERSION=$(git rev-parse HEAD)
 
 mkdir -p static/packages
 
-for plugin in "elgatito/plugin.video.projectx" "elgatito/script.projectx.burst" "elgatito/context.projectx"; do
+for plugin in "projectx/plugin.video.projectx" "projectx/script.projectx.burst" "projectx/context.projectx"; do
   cd ${CWD}
   go run generator.go ${plugin}
 
