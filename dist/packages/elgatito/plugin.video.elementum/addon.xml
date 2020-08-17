@@ -25,9 +25,9 @@
         <language>en el es de fi fr he hr it nl pt ro sk</language>
         <platform>all</platform>
         <website>http://projectx.surge.sh/</website>
-        <source>https://github.com/elgatito/plugin.video.projectx</source>
+        <source>https://github.com/projectx13/plugin.video.projectx</source>
         <forum></forum>
-        <license>Non commercial. See https://github.com/elgatito/plugin.video.projectx/blob/master/LICENSE</license>
+        <license>Non commercial. See https://github.com/projectx13/plugin.video.projectx/blob/master/LICENSE</license>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.png</fanart>

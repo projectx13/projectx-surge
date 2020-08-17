@@ -14,7 +14,7 @@ Icon is optional, but very much desired. It is easier to quickly find relevant s
 
 If you want to try adding new provider, the workflow is about that:
 
-- Fork Github repository from https://github.com/elgatito/script.projectx.burst
+- Fork Github repository from https://github.com/projectx13/script.projectx.burst
 - Clone the Github repository: `git clone git@github.com:yourusername/script.projectx.burst.git`
 - Change the branch from _master_ to anything else like `git checkout -b my_provider` 
 - Do your changes to _definitions.json_ 

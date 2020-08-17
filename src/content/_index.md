@@ -6,7 +6,7 @@ date = "2017-04-24T18:36:24+02:00"
 +++
 
 # projectx Kodi addon
-[projectx addon <i class='fab fa-github'></i>](https://github.com/elgatito/plugin.video.projectx) is an addon for Kodi, that manages your virtual library, syncs with your Trakt account . **Author does not take any responsibility for how users use this software!**
+[projectx addon <i class='fab fa-github'></i>](https://github.com/projectx13/plugin.video.projectx) is an addon for Kodi, that manages your virtual library, syncs with your Trakt account . **Author does not take any responsibility for how users use this software!**
 
 ### Addons *plugin.video.projectx* and *script.projectx.burst* are not supported! 
 * Do not expect any support, help and other things like that.

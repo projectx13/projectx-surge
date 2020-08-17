@@ -26,7 +26,7 @@ home = [ "HTML", "RSS", "JSON"]
 pre = "<h3>More</h3>"
 name = "<i class='fab fa-github'></i> Github repo"
 identifier = "ds"
-url = "https://github.com/elgatito/plugin.video.projectx"
+url = "https://github.com/projectx13/plugin.video.projectx"
 weight = 10
 
 # [[menu.shortcuts]]

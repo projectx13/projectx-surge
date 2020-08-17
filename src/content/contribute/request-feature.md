@@ -9,9 +9,9 @@ weight = 2
 ## Where to go
 
 - There are separate places for reporting an issue:
-   - For projectx addon: https://github.com/elgatito/plugin.video.projectx/issues
-   - For Burst: https://github.com/elgatito/script.projectx.burst/issues
-   - For Context addon: https://github.com/elgatito/context.projectx/issues
+   - For projectx addon: https://github.com/projectx13/plugin.video.projectx/issues
+   - For Burst: https://github.com/projectx13/script.projectx.burst/issues
+   - For Context addon: https://github.com/projectx13/context.projectx/issues
    - For projectx binary part of addon: https://github.com/projectx13/projectx/issues
    - For this website: https://github.com/projectx13/projectx-surge/issues
 
