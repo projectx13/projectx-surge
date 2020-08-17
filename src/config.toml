@@ -2,13 +2,13 @@ baseURL = "/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 
-title = "Elementum"
-description = "Elementum Documentation"
+title = "projectx"
+description = "projectx Documentation"
 theme = "docdock"
 #themesdir = "themes/docdock"
 
 [params]
-editURL = "https://github.com/elgatito/elementum-surge/edit/master/src/content/"
+editURL = "https://github.com/projectx13/projectx-surge/edit/master/src/content/"
 showVisitedLinks = true # default is false
 # themeStyle = "flex" # "original" or "flex" # default "original"
 themeStyle = "original" # "original" or "flex" # default "original"
@@ -26,7 +26,7 @@ home = [ "HTML", "RSS", "JSON"]
 pre = "<h3>More</h3>"
 name = "<i class='fab fa-github'></i> Github repo"
 identifier = "ds"
-url = "https://github.com/elgatito/plugin.video.elementum"
+url = "https://github.com/elgatito/plugin.video.projectx"
 weight = 10
 
 # [[menu.shortcuts]]

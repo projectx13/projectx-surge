@@ -6,16 +6,16 @@ weight = 3
 
 <!--more-->
 
-### Elementum Downloads
+### projectx Downloads
 
 > It is always better to use "All-on-one" zip file to install, it includes all the platforms!
 
-{{< platforms "plugin.video.elementum" >}}
+{{< platforms "plugin.video.projectx" >}}
 
 ### Burst Downloads
 
-{{< platforms "script.elementum.burst" >}}
+{{< platforms "script.projectx.burst" >}}
 
 ### Context Helper Downloads
 
-{{< platforms "context.elementum" >}}
+{{< platforms "context.projectx" >}}

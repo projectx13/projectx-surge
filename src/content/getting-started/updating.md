@@ -9,11 +9,11 @@ Update instructions.
 
 ## How it works
 
-Elementum has a self-hosted virtual Kodi repository. 
+projectx has a self-hosted virtual Kodi repository. 
 What it means? 
 
-- When installed, Elementum adds a repository to Kodi. In some cases it is added, but not enabled, so you can manually enable it like any other addon.
-- Repository update address points to the Elementum addon, so it you Elementum cannot start - repository is not working.
+- When installed, projectx adds a repository to Kodi. In some cases it is added, but not enabled, so you can manually enable it like any other addon.
+- Repository update address points to the projectx addon, so it you projectx cannot start - repository is not working.
 - This was made in that way to be able to change repository source in the code, in case github in inaccessible, or something.
 - Plugin knows which OS architecture it needs, so it's downloading only that architecture zip file.
 - Repository contains the Addon itself, Burst addon, Context addon, you can install or update any of them.

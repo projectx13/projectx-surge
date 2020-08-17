@@ -1,11 +1,11 @@
 +++
 title = "Credits"
-description = "contributors and packages used by Elementum"
+description = "contributors and packages used by projectx"
 +++
 
 
 ## github contributors
-{{<ghcontributors "https://api.github.com/repos/elgatito/plugin.video.elementum/contributors?per_page=100" >}}
+{{<ghcontributors "https://api.github.com/repos/elgatito/plugin.video.projectx/contributors?per_page=100" >}}
 
 ### Other contributors
 <div class="ghContributors">
@@ -18,7 +18,7 @@ description = "contributors and packages used by Elementum"
 
 ## Packages and libraries
 * [Torrent](https://github.com/arvidn/libtorrent) - Torrent library, used in plugin.
-* [Quasar](https://github.com/scakemyer/plugin.video.quasar) - Kodi plugin, forked to become Elementum.
+* [Quasar](https://github.com/scakemyer/plugin.video.quasar) - Kodi plugin, forked to become projectx.
 
 ## Tooling
 

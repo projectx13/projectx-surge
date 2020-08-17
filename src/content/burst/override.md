@@ -14,7 +14,7 @@ Locations can be discovered here: https://kodi.wiki/view/Log_file/Advanced#Locat
 
 ### Adding custom provider from json file
 
-You can add json files into *USERDATA/addon_data/script.elementum.burst/providers/*, each of them should contains provider description.
+You can add json files into *USERDATA/addon_data/script.projectx.burst/providers/*, each of them should contains provider description.
 
 *USERDATA* directory can be discovered here: https://kodi.wiki/view/Log_file/Advanced#Location
 Provider description syntax can be found here: [How to add provider]({{%relref "create.md"%}})
@@ -24,7 +24,7 @@ Be aware, that those providers are _enabled by default_! Kodi does not let makin
 ### Overriding provider definition with Python script
 
 Another way to override provider definition is the Python script.
-It should be an _overrides.py_ file in your *USERDATA/addon_data/script.elementum.burst/* directory.
+It should be an _overrides.py_ file in your *USERDATA/addon_data/script.projectx.burst/* directory.
 
 And it should look like this:
 ```python
@@ -41,7 +41,7 @@ overrides = {
 ### Overriding provider definition with JSON file
 
 The simpliest way to override provider definitions is the unified Json file.
-It is the _overrides.json_ file in *USERDATA/addon_data/script.elementum.burst/* directory.
+It is the _overrides.json_ file in *USERDATA/addon_data/script.projectx.burst/* directory.
 
 Should look like this:
 ```json
@@ -58,7 +58,7 @@ Should look like this:
 }
 ```
 
-You can open actual definitions, located here: https://raw.githubusercontent.com/elgatito/script.elementum.burst/master/burst/providers/providers.json
+You can open actual definitions, located here: https://raw.githubusercontent.com/elgatito/script.projectx.burst/master/burst/providers/providers.json
 
 Find the one you need, copy into _overrides.json_ file, and make you modifications. 
 

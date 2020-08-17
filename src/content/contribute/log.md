@@ -40,13 +40,13 @@ So we need to enable debugging in Kodi.
 
 ## What we have
 
-Elementum has few HTTP links which can give you more information about torrenting status, system information, some timers of common operations (which are way too useful for developers!):
+projectx has few HTTP links which can give you more information about torrenting status, system information, some timers of common operations (which are way too useful for developers!):
 - _/debug/bundle_ will give you all the debug information + _kodi.log_ file included. So it's the fullest log file, and is what we'd expect from you to find the problem.
 - _/debug/all_ contains all the debug information, *without* _kodi.log_, so it's all about the system and torrent engine, but not Kodi.
 
 To find proper link:
-- Enter Elementum addon, open Status
-    ![Enter Elementum addon, open Status](/screenshots/log1.png)
+- Enter projectx addon, open Status
+    ![Enter projectx addon, open Status](/screenshots/log1.png)
 - In the table you can see the address, that can be opened from other devices (in case you Kodi runs on a separate device in the network)
     ![Status output](/screenshots/log2.png)
 
@@ -55,13 +55,13 @@ To find proper link:
 
 ### Easy one
 
-If your Elementum starts fine, so you can enter it, browse for something, then you can try this way, if not, please, browse for the Hard one.
+If your projectx starts fine, so you can enter it, browse for something, then you can try this way, if not, please, browse for the Hard one.
 
 There is bundled functionality to upload your _/debug/bundle_ or _/debug/all_ logs to pastebin services. 
 All you need is to enter settings and start an upload:
 
-- Enter Elementum settings, open Advanced tab, browse to Logging section and you can see there are Upload options. 
-    ![Enter Elementum settings, open Advanced](/screenshots/log3.png)
+- Enter projectx settings, open Advanced tab, browse to Logging section and you can see there are Upload options. 
+    ![Enter projectx settings, open Advanced](/screenshots/log3.png)
 - Now you get an url of a paste. Write it down and share in your issues!
 
 Easy enough?!

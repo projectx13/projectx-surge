@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Elementum Documentation on Elementum</title>
+    <title>projectx Documentation on projectx</title>
     <link>/</link>
-    <description>Recent content in Elementum Documentation on Elementum</description>
+    <description>Recent content in projectx Documentation on projectx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Apr 2017 18:36:24 +0200</lastBuildDate>
@@ -107,7 +107,7 @@
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
       
       <guid>/_header/</guid>
-      <description>Elementum Documentation</description>
+      <description>projectx Documentation</description>
     </item>
     
     <item>
@@ -116,7 +116,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/credits/</guid>
-      <description>github contributors Other contributors Packages and libraries  Torrent - Torrent library, used in plugin. Quasar - Kodi plugin, forked to become Elementum.  Tooling  Hugo  </description>
+      <description>github contributors Other contributors Packages and libraries  Torrent - Torrent library, used in plugin. Quasar - Kodi plugin, forked to become projectx.  Tooling  Hugo  </description>
     </item>
     
   </channel>

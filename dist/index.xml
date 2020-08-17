@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Elementum Documentation on Elementum</title>
+    <title>projectx Documentation on projectx</title>
     <link>/</link>
-    <description>Recent content in Elementum Documentation on Elementum</description>
+    <description>Recent content in projectx Documentation on projectx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Apr 2017 18:36:24 +0200</lastBuildDate>
@@ -92,7 +92,7 @@
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
       
       <guid>/_header/</guid>
-      <description>Elementum Documentation</description>
+      <description>projectx Documentation</description>
     </item>
     
     <item>
@@ -101,7 +101,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/credits/</guid>
-      <description> github contributors .ghContributors{ display:flex; flex-flow: wrap; align-content: flex-start } .ghContributors  div{ width: 50% ; display: inline-flex; margin-bottom: 5px; } .ghContributors  div label{ padding-left: 4px ; } .ghContributors  div span{ font-size: x-small; padding-left: 4px ; }   @scakemyer 411 commits   @elgatito 206 commits   @steeve 90 commits   @meijin007 39 commits   @i96751414 23 commits   @KillerJoeBR 14 commits   @penzinho 14 commits   @m4xc4v413r4 13 commits   @Greenbaburu 12 commits   @peer23peer 12 commits   @muzena 9 commits   @zorg1977 9 commits   @ramiro 6 commits   @lrrosa 6 commits   @Filosofos 5 commits   @abuisine 4 commits   @razer1s 4 commits   @johnnyslt 4 commits   @Lam4hound 3 commits   @dmartinpro 3 commits   @roliverosc 2 commits   @sonics007 2 commits   @trisk 1 commits   @benjamintillman 1 commits   @candrews 1 commits   @MrDini123 1 commits   @MrLegendary 1 commits   @susobaco 1 commits   @achaw 1 commits   @guidosarducci 1 commits   @likeitneverwentaway 1 commits   @tobiasvandriessel 1 commits   Other contributors  @scakemyer Quasar development   Packages and libraries  Torrent - Torrent library in Go language Quasar - Kodi plugin, forked to become Elementum  Tooling  Hugo    </description>
+      <description> github contributors .ghContributors{ display:flex; flex-flow: wrap; align-content: flex-start } .ghContributors  div{ width: 50% ; display: inline-flex; margin-bottom: 5px; } .ghContributors  div label{ padding-left: 4px ; } .ghContributors  div span{ font-size: x-small; padding-left: 4px ; }   @scakemyer 411 commits   @elgatito 206 commits   @steeve 90 commits   @meijin007 39 commits   @i96751414 23 commits   @KillerJoeBR 14 commits   @penzinho 14 commits   @m4xc4v413r4 13 commits   @Greenbaburu 12 commits   @peer23peer 12 commits   @muzena 9 commits   @zorg1977 9 commits   @ramiro 6 commits   @lrrosa 6 commits   @Filosofos 5 commits   @abuisine 4 commits   @razer1s 4 commits   @johnnyslt 4 commits   @Lam4hound 3 commits   @dmartinpro 3 commits   @roliverosc 2 commits   @sonics007 2 commits   @trisk 1 commits   @benjamintillman 1 commits   @candrews 1 commits   @MrDini123 1 commits   @MrLegendary 1 commits   @susobaco 1 commits   @achaw 1 commits   @guidosarducci 1 commits   @likeitneverwentaway 1 commits   @tobiasvandriessel 1 commits   Other contributors  @scakemyer Quasar development   Packages and libraries  Torrent - Torrent library in Go language Quasar - Kodi plugin, forked to become projectx  Tooling  Hugo    </description>
     </item>
     
   </channel>

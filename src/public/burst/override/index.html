@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Elementum</title>
+    <title>projectx</title>
     
       <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <meta name="generator" content="Hugo 0.67.0-DEV" />
 <meta name="flattr:id" content="yj6gd6">
 
-<title>How to override provider :: Elementum</title>
+<title>How to override provider :: projectx</title>
 <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
 <link href="/css/nucleus.css" rel="stylesheet">
 <link href="/css/font-awesome.min.css" rel="stylesheet">
@@ -41,7 +41,7 @@
       
 	
   
-    <p><a href="/">Elementum Documentation</a></p>
+    <p><a href="/">projectx Documentation</a></p>
 
   
 
@@ -148,7 +148,7 @@
 
 
         <section id="shortcuts">
-                <li class="" role=""><h3>More</h3><a href="https://github.com/elgatito/plugin.video.elementum" target="_blank" rel="noopener"><i class='fab fa-github'></i> Github repo</a></li>
+                <li class="" role=""><h3>More</h3><a href="https://github.com/elgatito/plugin.video.projectx" target="_blank" rel="noopener"><i class='fab fa-github'></i> Github repo</a></li>
                 <li class="" role=""><a href="/credits" target="_blank" rel="noopener"><i class='fa fa-bullhorn'></i> Credits</a></li>
         </section>
             <a id="clear-history" class="" href="#" data-clear-history-toggle=""><i class="fa  fa-history"></i> Clear History</a>
@@ -159,9 +159,9 @@
     </ul>
 
  <section id="footer"><center>
-  <a class="github-button" href="https://github.com/elgatito/plugin.video.elementum/releases" data-icon="octicon-cloud-download" aria-label="Download elgatito/plugin.video.elementum on GitHub">Download</a>
-  <a class="github-button" href="https://github.com/elgatito/plugin.video.elementum" data-icon="octicon-star" data-show-count="false" aria-label="Star elgatito/plugin.video.elementum on GitHub">Star</a>
-  <a class="github-button" href="https://github.com/elgatito/plugin.video.elementum/fork" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork elgatito/plugin.video.elementum on GitHub">Fork</a>
+  <a class="github-button" href="https://github.com/elgatito/plugin.video.projectx/releases" data-icon="octicon-cloud-download" aria-label="Download elgatito/plugin.video.projectx on GitHub">Download</a>
+  <a class="github-button" href="https://github.com/elgatito/plugin.video.projectx" data-icon="octicon-star" data-show-count="false" aria-label="Star elgatito/plugin.video.projectx on GitHub">Star</a>
+  <a class="github-button" href="https://github.com/elgatito/plugin.video.projectx/fork" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork elgatito/plugin.video.projectx on GitHub">Fork</a>
 </center>
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
@@ -182,7 +182,7 @@
       
       
     <div id="top-github-link">
-      <a class="github-link" href="https://github.com/elgatito/elementum-surge/edit/master/src/content/burst/override.md" target="blank">
+      <a class="github-link" href="https://github.com/projectx13/projectx-surge/edit/master/src/content/burst/override.md" target="blank">
         <i class="fab fa-github"></i>
         Edit page
       </a>
@@ -202,7 +202,7 @@
 
 
 
- <a href='/'>Elementum Documentation</a> > <a href='/burst/'>Burst addon</a> > How to override provider
+ <a href='/'>projectx Documentation</a> > <a href='/burst/'>Burst addon</a> > How to override provider
 
  
 
@@ -247,13 +247,13 @@
 <p>There are few ways to override some provider or add one locally.</p>
 <p>Locations can be discovered here: <a href="https://kodi.wiki/view/Log_file/Advanced#Location">https://kodi.wiki/view/Log_file/Advanced#Location</a></p>
 <h3 id="adding-custom-provider-from-json-file">Adding custom provider from json file</h3>
-<p>You can add json files into <em>USERDATA/addon_data/script.elementum.burst/providers/</em>, each of them should contains provider description.</p>
+<p>You can add json files into <em>USERDATA/addon_data/script.projectx.burst/providers/</em>, each of them should contains provider description.</p>
 <p><em>USERDATA</em> directory can be discovered here: <a href="https://kodi.wiki/view/Log_file/Advanced#Location">https://kodi.wiki/view/Log_file/Advanced#Location</a>
 Provider description syntax can be found here: <a href="/burst/create/">How to add provider</a></p>
 <p>Be aware, that those providers are <em>enabled by default</em>! Kodi does not let making flexible addon settings, they are static.</p>
 <h3 id="overriding-provider-definition-with-python-script">Overriding provider definition with Python script</h3>
 <p>Another way to override provider definition is the Python script.
-It should be an <em>overrides.py</em> file in your <em>USERDATA/addon_data/script.elementum.burst/</em> directory.</p>
+It should be an <em>overrides.py</em> file in your <em>USERDATA/addon_data/script.projectx.burst/</em> directory.</p>
 <p>And it should look like this:</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">overrides <span style="color:#f92672">=</span> {
     <span style="color:#e6db74">&#39;torlock&#39;</span>: {
@@ -265,7 +265,7 @@ It should be an <em>overrides.py</em> file in your <em>USERDATA/addon_data/scrip
 }
 </code></pre></div><h3 id="overriding-provider-definition-with-json-file">Overriding provider definition with JSON file</h3>
 <p>The simpliest way to override provider definitions is the unified Json file.
-It is the <em>overrides.json</em> file in <em>USERDATA/addon_data/script.elementum.burst/</em> directory.</p>
+It is the <em>overrides.json</em> file in <em>USERDATA/addon_data/script.projectx.burst/</em> directory.</p>
 <p>Should look like this:</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-json" data-lang="json">{
     <span style="color:#f92672">&#34;rutor&#34;</span>: {
@@ -278,7 +278,7 @@ It is the <em>overrides.json</em> file in <em>USERDATA/addon_data/script.element
         }
     }
 }
-</code></pre></div><p>You can open actual definitions, located here: <a href="https://raw.githubusercontent.com/elgatito/script.elementum.burst/master/burst/providers/providers.json">https://raw.githubusercontent.com/elgatito/script.elementum.burst/master/burst/providers/providers.json</a></p>
+</code></pre></div><p>You can open actual definitions, located here: <a href="https://raw.githubusercontent.com/elgatito/script.projectx.burst/master/burst/providers/providers.json">https://raw.githubusercontent.com/elgatito/script.projectx.burst/master/burst/providers/providers.json</a></p>
 <p>Find the one you need, copy into <em>overrides.json</em> file, and make you modifications.</p>
 <p>Or leave only modified columns, to see what you change.</p>
 
